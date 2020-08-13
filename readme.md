@@ -14,12 +14,13 @@ As a user, I want to search the calrories of the foods.
 As a user, I want to record what foods and calories I took
 As a user, I want to see the total calories I consumed daily
 As a user, I want to see the recommended clarories for my body and want to compare my daily intake calories 
+API: https://developer.edamam.com/edamam-recipe-api
 
 2. Covid Art Gallery
 As a user, I want to search the paintings by its category or painters. 
 As a suer, I want to sign up to save and delete the paining in my favorite  
 As a user, I want to write my opinions on each painintgs
-
+API: https://www.harvardartmuseums.org/collections/api
 
 
 3. What can I cook with things in my fridge? 
@@ -27,6 +28,7 @@ As a user, I want to search recipe by typing ingredients
 As a user, I want to save the recipe I like 
 As a user, I want to write the post about the foods that I made with the receipt. 
 As a user, I want to search through my posts. 
+API: https://themealdb.com/api.php
 
 
 
