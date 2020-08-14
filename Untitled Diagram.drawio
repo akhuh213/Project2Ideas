@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T04:57:47.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Yl7QRK5N5ZN_FC5jiBdE" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T15:41:35.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="yYMvUJ6yABOps-_7TRdP" version="13.6.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1644" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="iOdEwq1WsNc-iahHYhRR-20" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="10" width="1100" height="840" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-21" value="`" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;fontFamily=Verdana;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-21" value="`" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#ffffff;fontFamily=Verdana;fontSize=14;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1100" y="10" width="1100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="iOdEwq1WsNc-iahHYhRR-23" value="" style="shape=line;strokeColor=#9673a6;strokeWidth=2;html=1;resizeWidth=1;fillColor=#e1d5e7;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
@@ -96,8 +96,8 @@
             <mxPoint x="40" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-24" value="User Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
-          <mxGeometry width="550" height="20" relative="1" as="geometry">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-24" value="User Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
+          <mxGeometry width="70" height="20" relative="1" as="geometry">
             <mxPoint x="190" y="260" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -106,8 +106,8 @@
             <mxPoint x="270" y="250" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-26" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
-          <mxGeometry width="550" height="20" relative="1" as="geometry">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-26" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
+          <mxGeometry width="70" height="20" relative="1" as="geometry">
             <mxPoint x="200" y="320" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -126,7 +126,7 @@
             <mxPoint x="60" y="-91" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-31" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Sign up for Calorie Tracker&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-31" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Sign up for Calorie Tracker&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-21" vertex="1">
           <mxGeometry y="1" width="200" height="49" relative="1" as="geometry">
             <mxPoint x="450" y="-425" as="offset" />
           </mxGeometry>
@@ -173,7 +173,7 @@
         <mxCell id="iOdEwq1WsNc-iahHYhRR-51" value="Aug 18&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
           <mxGeometry width="420" height="40" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-52" value="French Fries" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-52" value="French Fries" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
           <mxGeometry width="110" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
@@ -183,7 +183,7 @@
             <mxPoint x="310" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-55" value="Ice Americano" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-55" value="Ice Americano" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
           <mxGeometry width="380" height="20" relative="1" as="geometry">
             <mxPoint y="95" as="offset" />
           </mxGeometry>
@@ -191,7 +191,7 @@
         <mxCell id="iOdEwq1WsNc-iahHYhRR-116" value="90 kcal" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
           <mxGeometry x="320" y="90" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-117" value="Your total calories for the day : 230 kcal&lt;br&gt;&amp;nbsp;Recommended Calories : 1500kcal" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-117" value="Your total calories for the day : 230 kcal&lt;br&gt;&amp;nbsp;Recommended Calories : 1500kcal" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-50" vertex="1">
           <mxGeometry x="40" y="360" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iOdEwq1WsNc-iahHYhRR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=16;" parent="1" source="iOdEwq1WsNc-iahHYhRR-16" target="iOdEwq1WsNc-iahHYhRR-16" edge="1">
@@ -205,7 +205,7 @@
         <mxCell id="iOdEwq1WsNc-iahHYhRR-58" value="t" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontFamily=Verdana;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="140" y="1170" width="860" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-59" value="October 2014" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" parent="iOdEwq1WsNc-iahHYhRR-58" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-59" value="October 2014" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-58" vertex="1">
           <mxGeometry x="161.25" y="21.94285714285714" width="537.5" height="54.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="iOdEwq1WsNc-iahHYhRR-60" value="&lt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=4;strokeColor=#999999;fontColor=#008cff;fontSize=19;fontStyle=1;" parent="iOdEwq1WsNc-iahHYhRR-58" vertex="1">
@@ -389,7 +389,7 @@
             <mxPoint x="20" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-129" value="Email:*" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-129" value="Email:*" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry width="250.00000000000003" height="20" relative="1" as="geometry">
             <mxPoint x="65" y="160" as="offset" />
           </mxGeometry>
@@ -399,7 +399,7 @@
             <mxPoint x="120" y="300" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-131" value="Password:*" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-131" value="Password:*" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry width="250.00000000000003" height="20" relative="1" as="geometry">
             <mxPoint x="45" y="225" as="offset" />
           </mxGeometry>
@@ -409,7 +409,7 @@
             <mxPoint x="120" y="100" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-134" value="Already have account?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#9999ff;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-134" value="Already have account?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#9999ff;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry y="1" width="375" height="20" relative="1" as="geometry">
             <mxPoint x="170" y="-70" as="offset" />
           </mxGeometry>
@@ -433,22 +433,22 @@
         <mxCell id="iOdEwq1WsNc-iahHYhRR-143" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="120" y="345" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-145" value="Height:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-145" value="Height:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="65" y="300" width="250.00000000000003" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-144" value="Name:*" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;verticalAlign=middle;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-144" value="Name:*" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;verticalAlign=middle;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="65" y="100" width="262.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-146" value="Weight:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-146" value="Weight:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="65" y="345" width="250.00000000000003" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-147" value="Check and track recommended daily calories for healthy life! (optional)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-147" value="Check and track recommended daily calories for healthy life! (optional)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="70" y="260" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iOdEwq1WsNc-iahHYhRR-149" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="120" y="390" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iOdEwq1WsNc-iahHYhRR-150" value="Recommended&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;Calories:&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=right;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
+        <mxCell id="iOdEwq1WsNc-iahHYhRR-150" value="Recommended&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;Calories:&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=right;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;strokeColor=none;" parent="iOdEwq1WsNc-iahHYhRR-126" vertex="1">
           <mxGeometry x="30" y="395" width="250" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iOdEwq1WsNc-iahHYhRR-138" value="Calorie Tracker" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
