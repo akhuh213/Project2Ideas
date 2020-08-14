@@ -53,11 +53,12 @@ https://app.diagrams.net/?libs=general;er#Hakhuh213%2FHow-to-make-node%2Fmaster%
 ----------------------------------------------------------
 ### User Stories
 
-calrorie tracker 
-As a user, I want to search the calrories of the foods. 
-As a user, I want to record what foods and calories I consumed
-As a user, I want to see the total calories I consumed daily
-As a user, I want to see the recommended clarories for my body and want to compare it with my daily calories 
+#### Calrorie tracker <br/>
+As a user, I want to search the calrories of the foods. <br/>
+As a user, I want to record what foods and calories I consumed </br>
+As a user, I want to see the total calories I consumed daily</br>
+As a user, I want to see the recommended clarories for my body and want to compare it with my daily calories </br>
+API: https://developer.edamam.com/edamam-recipe-api
 
 ----------------------------------------------------------
 ### Wireframes
