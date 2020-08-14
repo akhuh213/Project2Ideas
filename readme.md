@@ -47,17 +47,21 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+
 https://app.diagrams.net/?libs=general;er#Hakhuh213%2FHow-to-make-node%2Fmaster%2FUntitled%20Diagram.drawio
+
 ----------------------------------------------------------
 ### User Stories
 
-#### calrorie tracker 
+calrorie tracker 
 As a user, I want to search the calrories of the foods. 
 As a user, I want to record what foods and calories I consumed
 As a user, I want to see the total calories I consumed daily
 As a user, I want to see the recommended clarories for my body and want to compare it with my daily calories 
+
 ----------------------------------------------------------
 ### Wireframes
+
 https://app.diagrams.net/#Hakhuh213%2FProject2Ideas%2Fmaster%2FUntitled%20Diagram.drawio
 
 ----------------------------------------------------------
