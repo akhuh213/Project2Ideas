@@ -48,7 +48,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-https://app.diagrams.net/?libs=general;er#Hakhuh213%2FHow-to-make-node%2Fmaster%2FUntitled%20Diagram.drawio
+https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fakhuh213%2FHow-to-make-node%2Fmaster%2FUntitled%2520Diagram.drawio
 
 ----------------------------------------------------------
 ### User Stories
@@ -63,7 +63,7 @@ API: https://developer.edamam.com/edamam-recipe-api
 ----------------------------------------------------------
 ### Wireframes
 
-https://app.diagrams.net/#Hakhuh213%2FProject2Ideas%2Fmaster%2FUntitled%20Diagram.drawio
+https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fakhuh213%2FProject2Ideas%2Fmaster%2FUntitled%2520Diagram.drawio
 
 ----------------------------------------------------------
 
